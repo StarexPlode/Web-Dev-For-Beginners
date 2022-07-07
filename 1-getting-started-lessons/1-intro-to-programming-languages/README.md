@@ -26,6 +26,7 @@ Programming (also known as coding) is the process of writing instructions for a 
 A *program* can be anything that is written with code; websites, games, and phone apps are programs. While it's possible to create a program without writing code, the underlying logic is interpreted by the device and that logic was most likely written with code. A program that is *running* or *executing* code is carrying out instructions. The device that you're reading this lesson with is running a program to print it to your screen.
 
 ✅ Do a little research: who is considered to have been the world's first computer programmer?
+✔ Ada Lovelace
 
 ## Programming Languages
 
